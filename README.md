@@ -7,15 +7,14 @@
     Все вперемешку - тестовые варианты, выгрузил для собеседования
 
 
-
-    ![photo](https://user-images.githubusercontent.com/55453859/114118500-95a39c80-98f1-11eb-8cdd-2232e43a84e0.png)
+![photo](https://user-images.githubusercontent.com/55453859/114118500-95a39c80-98f1-11eb-8cdd-2232e43a84e0.png)
 
 
 
     Здесь представлены тесты на видеопотоке:
  
-    ![WclqA8y0fAY](https://user-images.githubusercontent.com/55453859/114118284-380f5000-98f1-11eb-863c-116ce22ea604.jpg)
-    ![Ly1rWOD60fY](https://user-images.githubusercontent.com/55453859/114118291-3a71aa00-98f1-11eb-8059-c4276a49521d.jpg)
+![WclqA8y0fAY](https://user-images.githubusercontent.com/55453859/114118284-380f5000-98f1-11eb-863c-116ce22ea604.jpg)
+![Ly1rWOD60fY](https://user-images.githubusercontent.com/55453859/114118291-3a71aa00-98f1-11eb-8059-c4276a49521d.jpg)
 
 
 
