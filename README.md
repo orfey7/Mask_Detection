@@ -15,7 +15,10 @@
 #### Здесь представлены тесты на видеопотоке:
  
 ![WclqA8y0fAY](https://user-images.githubusercontent.com/55453859/114118284-380f5000-98f1-11eb-863c-116ce22ea604.jpg)
+
 ![Ly1rWOD60fY](https://user-images.githubusercontent.com/55453859/114118291-3a71aa00-98f1-11eb-8059-c4276a49521d.jpg)
+
+![O4IMRH_bMKg](https://user-images.githubusercontent.com/55453859/114124849-ff29a800-98fd-11eb-9478-ba559b4f59fa.jpg)
 
 
 
