@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ann</folder>
+	<filename>maksssksksss56.jpg</filename>
+	<path>C:\Users\Irina\Desktop\archive\ann\maksssksksss56.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>267</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>132</ymin>
+			<xmax>253</xmax>
+			<ymax>181</ymax>
+		</bndbox>
+	</object>
+</annotation>
